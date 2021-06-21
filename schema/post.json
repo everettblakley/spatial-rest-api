@@ -1,0 +1,19 @@
+{
+  "id": 123,
+  "journeyId": 321,
+  "userId": 1,
+  "title": "Day hike in Banff!",
+  "description": "Went on a hike today in Banff. Didn't see any unicorns, but it was still pretty fun!",
+  "date": "2021-06-20T22:32:17.344Z",
+  "geography": {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -115.59654105587958,
+        51.20460741393446
+      ]
+    },
+    "properties": {}
+  }
+}
